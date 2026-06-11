@@ -33,7 +33,7 @@ export default function Page() {
               />
             </div>
             <div>
-              <p className="font-semibold text-primary text-sm tracking-[0.25em]">Akan.js 라고요 이해되시냐고요 예?</p>
+              <p className="font-semibold text-primary text-sm tracking-[0.25em]">Akan.js 라고요 이해되시죠?</p>
               <p className="text-base-content/60 text-xs">
                 {l.trans({ en: "Full-stack TypeScript framework", ko: "풀스택 타입스크립트 프레임워크" })}
               </p>
